@@ -6,8 +6,13 @@
 
 
 1. [Solicite ao Github](https://education.github.com/discount_requests/new) benefícios que são disponibilizados para professores (*faculty*) e quando o fizer, edite esse arquivo e marque essa questão como solucionada.
-    - [ ] Pedido realizado para minha conta pessoal no Github
-    - [ ] Pedido processado e autorizado pelo Github
+ ```
+ Thanks for submitting!
+Be sure to check your email. If you don't hear from us within the hour, you should receive an email from us in fewer than 9 days. Have an Octotastic day!
+ ```
+ - [x] Pedido realizado para minha conta pessoal no Github
+ - [ ] Pedido processado e autorizado pelo Github
+    
 1. Crie um sudiretório com o nome `disciplinas` e dentro desse crie um arquivo chamado `Readme.md` com o seguinte conteúdo em Markdown.
     ```markdown
     # Disciplinas que estou atuando no momento
