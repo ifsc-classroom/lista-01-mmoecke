@@ -11,7 +11,16 @@
 Be sure to check your email. If you don't hear from us within the hour, you should receive an email from us in fewer than 9 days. Have an Octotastic day!
  ```
  - [x] Pedido realizado para minha conta pessoal no Github
- - [ ] Pedido processado e autorizado pelo Github
+```
+Hey prof. Marcos Moecke,
+
+Welcome!
+
+Thank you for joining GitHub Education. GitHub Education helps students, teachers, and schools access the tools and events they need to shape the next generation of software development. 
+...
+
+ ``` 
+ - [x] Pedido processado e autorizado pelo Github
     
 1. Crie um sudiretório com o nome `disciplinas` e dentro desse crie um arquivo chamado `Readme.md` com o seguinte conteúdo em Markdown.
     ```markdown
