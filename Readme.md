@@ -33,7 +33,7 @@ Thank you for joining GitHub Education. GitHub Education helps students, teacher
     - [x] Criado o arquivo `Readme.md`
     - [x] Adicionado ao git
     - [x] Feito o `commit`
-    - [x] Fieto o `push`
+    - [x] Feito o `push`
     
 1. Dentro do diretório `disciplinas`, crie um subdiretório tendo como nome a sigla de uma das disciplinas em que atua (ex: `poo`) e dentro desse diretório crie um arquivo chamado `Readme.md` com a seguinte estrutura e que deverá ser preenchida de acordo com a sua disciplina (Veja um exemplo preenchido [clicando aqui](https://gist.github.com/emersonmello/1c8b2d2286e8a6c8026c74f9efe4a7dc) e o respectivo código fonte [clicando aqui](https://gist.githubusercontent.com/emersonmello/1c8b2d2286e8a6c8026c74f9efe4a7dc/raw/e7c88b4802cf9374424202954ebf24c6c93143a4/poo.md)).
     ```markdown
@@ -61,5 +61,5 @@ Thank you for joining GitHub Education. GitHub Education helps students, teacher
     professor e pelos alunos para definir a forma de desenvolvimento do conteúdo
     programático.
     ```
+    - [x] Criado a pasta `DLP1`, criado o arquivo `Readme.md`, adicionado ao git, feito o `commit` e `push`
 
-    ## 
