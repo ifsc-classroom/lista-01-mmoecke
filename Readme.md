@@ -11,7 +11,16 @@
 Be sure to check your email. If you don't hear from us within the hour, you should receive an email from us in fewer than 9 days. Have an Octotastic day!
  ```
  - [x] Pedido realizado para minha conta pessoal no Github
- - [ ] Pedido processado e autorizado pelo Github
+```
+Hey prof. Marcos Moecke,
+
+Welcome!
+
+Thank you for joining GitHub Education. GitHub Education helps students, teachers, and schools access the tools and events they need to shape the next generation of software development. 
+...
+
+ ``` 
+ - [x] Pedido processado e autorizado pelo Github
     
 1. Crie um sudiretório com o nome `disciplinas` e dentro desse crie um arquivo chamado `Readme.md` com o seguinte conteúdo em Markdown.
     ```markdown
@@ -20,6 +29,12 @@ Be sure to check your email. If you don't hear from us within the hour, you shou
     # Disciplinas que já atuei no passado
     ```
     - Adicione pelo menos 2 disciplinas (na forma de lista não numerada) em cada uma das seções desse documento.
+    - [x] Criado a pasta `disciplinas`
+    - [x] Criado o arquivo `Readme.md`
+    - [x] Adicionado ao git
+    - [x] Feito o `commit`
+    - [x] Feito o `push`
+    
 1. Dentro do diretório `disciplinas`, crie um subdiretório tendo como nome a sigla de uma das disciplinas em que atua (ex: `poo`) e dentro desse diretório crie um arquivo chamado `Readme.md` com a seguinte estrutura e que deverá ser preenchida de acordo com a sua disciplina (Veja um exemplo preenchido [clicando aqui](https://gist.github.com/emersonmello/1c8b2d2286e8a6c8026c74f9efe4a7dc) e o respectivo código fonte [clicando aqui](https://gist.githubusercontent.com/emersonmello/1c8b2d2286e8a6c8026c74f9efe4a7dc/raw/e7c88b4802cf9374424202954ebf24c6c93143a4/poo.md)).
     ```markdown
     # Nome do componente curricular
@@ -46,5 +61,5 @@ Be sure to check your email. If you don't hear from us within the hour, you shou
     professor e pelos alunos para definir a forma de desenvolvimento do conteúdo
     programático.
     ```
+    - [x] Criado a pasta `DLP1`, criado o arquivo `Readme.md`, adicionado ao git, feito o `commit` e `push`
 
-    ## 

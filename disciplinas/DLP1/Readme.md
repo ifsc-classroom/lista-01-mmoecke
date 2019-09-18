@@ -29,6 +29,7 @@ Ao concluir a disciplina os alunos deverão ser capazes de
 3. Projeto de maquinas de estado (4h) 
 9. Projeto Final em equipes: especificação, implementação em VHDL, simulação, teste em hardware, documentação, integração dos subprojetos, apresentação oral. (16h) 
 10. Avaliações. (6h) 
+
 ## Estratégias de ensino utilizadas
 - Aulas expositivas usando wiki e livro texto para apresentar conceitos, exemplos;
 - Aulas de laboratório utilizando softwares de síntese e simulação (Quartus, QSIM, Modelsim) ;
@@ -65,6 +66,9 @@ Ao concluir a disciplina os alunos deverão ser capazes de
 - Projetos de circuitos usando o ambiente Quartus.
 - Simulação de circuitos com QSIM e Modelsim.
 - Programação de dispositivos FPGA 
+
+## Bibliografia 
+
 
 ## Página wiki da unidade curricular
 -  [DLP1-EngTel (página)](http://bit.ly/IFSC-DLP29006)
